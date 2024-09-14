@@ -33,7 +33,8 @@ Here are some ideas to get you started:
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif
+![213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5](https://github.com/user-attachments/assets/ed90a689-2f5b-40c5-adcb-0237bd91675c)
+
 
 
 <h3 align="left">Connect with me:</h3>
