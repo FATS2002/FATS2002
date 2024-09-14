@@ -46,6 +46,8 @@ Here are some ideas to get you started:
 
 <h3 align="left">Languages and Tools:</h3>
 
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fats2002&show_icons=true&locale=en&layout=compact" alt="fats2002" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fats2002&show_icons=true&locale=en" alt="fats2002" /></p>
