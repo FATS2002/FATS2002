@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I'm Rakshith</h1>
 <h3 align="center">cs graduate and developer</h3>
-![Rakshith](https://github.com/user-attachments/assets/78d702c0-eadc-4fc8-abdd-d56ba014d8fa)
+[Rakshith](https://github.com/user-attachments/assets/e5f2db1c-8ee5-48ad-bbb5-22f384061369)
+
 
 
 - 📝 I regularly write articles on [subbi.rakshith@zohomail.com](subbi.rakshith@zohomail.com)
