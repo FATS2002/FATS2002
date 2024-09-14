@@ -21,8 +21,6 @@ Here are some ideas to get you started:
 
 
 
-![Rakshith](https://github.com/user-attachments/assets/75122f64-832c-4e02-9689-dbfddbf9146f)
-
 
 - 📝 I regularly write articles on [subbi.rakshith@zohomail.com](subbi.rakshith@zohomail.com)
 
