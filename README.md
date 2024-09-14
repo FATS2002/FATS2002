@@ -48,13 +48,11 @@ Here are some ideas to get you started:
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fats2002&show_icons=true&locale=en&layout=compact" alt="fats2002" /></p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=fats2002&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=fats2002&theme=highcontrast&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=fats2002&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fats2002&show_icons=true&locale=en" alt="fats2002" /></p>
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fats2002&" alt="fats2002" /></p>
 
 
 ![221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc](https://github.com/user-attachments/assets/6da02c10-f6ab-4c6b-a8f3-847fad9fa89e)
