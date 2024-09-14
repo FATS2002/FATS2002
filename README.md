@@ -40,10 +40,7 @@ Here are some ideas to get you started:
 
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="/www.subbi.rakshith@zohomail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="www.subbi.rakshith@zohomail.com" height="30" width="40" /></a>
-</p>
+
 
 ![212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a](https://github.com/user-attachments/assets/856a4f3f-b0d4-4436-81bf-edead10ec968)
 
