@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 
 | MyProject stats                                         | Link                                                        |  
 |---------------------------------------------------------|-------------------------------------------------------------|
-|1. Phishing Email detection using NLP                    | To be updatedℹ️                                            |                  
+|1. Phishing Email detection using NLP                    | To be updated💌                                            |                  
 |2. Algorithm analysing                                    |To be updated                                               |
 |3.Security in Social-Media: Awareness of Phishing<br>Attacks Techniques and Countermeasures|To be updated               |
 |To be updated                                            |To be updated                                                |
