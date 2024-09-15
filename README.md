@@ -46,11 +46,11 @@ Here are some ideas to get you started:
 ![212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a](https://github.com/user-attachments/assets/856a4f3f-b0d4-4436-81bf-edead10ec968)
 
 
-| MyProject stats                                         | Link                                                        |
-|---------------------------------------------------------|-------------------------------------------------------------|
-|1. Phishing Email detection using NLP                    | To be updated                                               | 
+| MyProject stats                                         | Link                                                        |  Languagues used |
+|---------------------------------------------------------|-------------------------------------------------------------|------------------|
+|1. Phishing Email detection using NLP                    | To be updated                                               | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
 |To be updated                                            |To be updated                                               |
-|To be updated                                            |To be updated                                                             |
+|To be updated                                            |To be updated                                            |
 |To be updated                                            |To be updated                                                             |
 |To be updated                                            |To be updated                                                              |
 |To be updated                                            |To be updated                                                               |                                      |To be updated                                            |      To be updated                                                 |  
