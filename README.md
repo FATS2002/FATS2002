@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="500">
+<br><br>
+
 <!--
 **FATS2002/FATS2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
