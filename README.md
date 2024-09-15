@@ -77,10 +77,4 @@ Here are some ideas to get you started:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=fats2002&theme=highcontrast&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=fats2002&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-
-
-
 ![221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc](https://github.com/user-attachments/assets/6da02c10-f6ab-4c6b-a8f3-847fad9fa89e)
-
-
-
