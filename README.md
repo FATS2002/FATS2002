@@ -49,8 +49,8 @@ Here are some ideas to get you started:
 | MyProject stats                                         | Link                                                        |  
 |---------------------------------------------------------|-------------------------------------------------------------|
 |1. Phishing Email detection using NLP                    | To be updated                                               |                  
-|To be updated                                            |To be updated                                               |
-|To be updated                                            |To be updated                                            |
+|2. Algorithm analysing                                    |To be updated                                               |
+|3.                                                        |To be updated                                            |
 |To be updated                                            |To be updated                                                  |
 |To be updated                                            |To be updated                                                              |
 |To be updated                                            |To be updated                                                               |                                      |To be updated                                            |      To be updated                                                 |  
