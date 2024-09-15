@@ -82,6 +82,5 @@ Here are some ideas to get you started:
 
 ![221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc](https://github.com/user-attachments/assets/6da02c10-f6ab-4c6b-a8f3-847fad9fa89e)
 
-![github-header-image (4)](https://github.com/user-attachments/assets/265c00b1-f1f3-444a-9dbe-c30d725dbc4a)
 
 
