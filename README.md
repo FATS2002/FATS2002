@@ -77,7 +77,6 @@ Here are some ideas to get you started:
 
 
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 ![221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc](https://github.com/user-attachments/assets/6da02c10-f6ab-4c6b-a8f3-847fad9fa89e)
 
