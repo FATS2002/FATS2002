@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![216655851-0415f042-4ad3-4c66-b63d-ab57210929fd](https://github.com/user-attachments/assets/20c9d1b7-f7a4-42d6-93ef-fffc0f76e4d3)
 
 <h1 align="center">Hi 👋, I'm Rakshith</h1> 
-![216655851-0415f042-4ad3-4c66-b63d-ab57210929fd](https://github.com/user-attachments/assets/47c2a352-cf15-4fe5-9d4a-15b3a437e700)
 
 <h3 align="center">cs graduate and developer</h3>
 
