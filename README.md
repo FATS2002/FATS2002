@@ -48,13 +48,13 @@ Here are some ideas to get you started:
 
 | MyProject stats                                         | Link                                                        |
 |---------------------------------------------------------|-------------------------------------------------------------|
-| 1.Phishing Email detection using NLP                             |                                                             |
-|                                                         |                                                             |
-|                                                         |                                                             |
-|                                                         |                                                             |
-|                                                         |                                                              |
-|                                                         |                                                               |                                                                                         |
-|                                |                        |                                                                |
+|1. Phishing Email detection using NLP                    | To be updated                                               | 
+|To be updated                                            |To be updated                                               |
+|To be updated                                            |To be updated                                                             |
+|To be updated                                            |To be updated                                                             |
+|To be updated                                            |To be updated                                                              |
+|To be updated                                            |To be updated                                                               |                                      |To be updated                                            |      To be updated                                                 |  
+|To be updated                                            |                        |                                                                  
 
 
 <h3 align="left">Languages and Tools:</h3>
