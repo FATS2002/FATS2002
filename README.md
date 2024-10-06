@@ -92,14 +92,13 @@ Here are some ideas to get you started:
 ### Certifications
 
 #### Red Hat Certified Engineer (RHCE)
-
-![RHCE Badge](https://www.redhat.com/rhtapps/services/assets/images/certified-engineer.png)
+![RHCE Badge](https://img.shields.io/badge/RHCE-Certified-red)
 
 #### Red Hat Certified System Administrator (RHCSA)
-![RHCSA Badge](https://www.redhat.com/rhtapps/services/assets/images/certified-system-administrator.png)
+![RHCSA Badge](https://img.shields.io/badge/RHCSA-Certified-blue)
 
 #### Red Hat Certified Architect (RHCA)
-![RHCA Badge](https://www.redhat.com/rhtapps/services/assets/images/certified-architect.png)
+![RHCA Badge](https://img.shields.io/badge/RHCA-Certified-green)
 
 
 
