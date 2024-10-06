@@ -86,18 +86,42 @@ Here are some ideas to get you started:
 |To be updated                                            |                                                             |                                                                  
 
 
-```
 
 ### Certifications
-
-#### Red Hat Certified Engineer (RHCE)
+#### Red Hat Certified Engineer (RHCE) 
 ![RHCE Badge](https://img.shields.io/badge/RHCE-Certified-red?style=for-the-badge)
-
-#### Red Hat Certified System Administrator (RHCSA)
-![RHCSA Badge](https://img.shields.io/badge/RHCSA-Certified-blue?style=for-the-badge)
-
-#### Red Hat Certified Architect (RHCA)
-![RHCA Badge](https://img.shields.io/badge/RHCA-Certified-green?style=for-the-badge)
+#### Red Hat Certified System Administrator  (RHCSA) ![RHCSA Badge](https://img.shields.io/badge/RHCSA-Certified-blue?style=for-the-badge)
+#### Red Hat Certified Architect (RHCA) ![RHCA Badge](https://img.shields.io/badge/RHCA-Certified-green?style=for-the-badge)
 
 
-```
+
+## Certifications 🏆
+
+<div align="center">
+  <table>
+    <tr>
+      <th>Certification</th>
+      <th>Badge</th>
+    </tr>
+    <tr>
+      <td>Red Hat Certified Engineer (RHCE)</td>
+      <td><img src="https://img.shields.io/badge/RHCE-Certified-red?style=for-the-badge" alt="RHCE Badge"></td>
+    </tr>
+    <tr>
+      <td>Red Hat Certified System Administrator (RHCSA)</td>
+      <td><img src="https://img.shields.io/badge/RHCSA-Certified-blue?style=for-the-badge" alt="RHCSA Badge"></td>
+    </tr>
+    <tr>
+      <td>Red Hat Certified Architect (RHCA)</td>
+      <td><img src="https://img.shields.io/badge/RHCA-Certified-green?style=for-the-badge" alt="RHCA Badge"></td>
+    </tr>
+  </table>
+</div>
+
+---
+
+<p align="center">
+  <i>Certifications are a testament to my dedication and continuous learning in the field of technology.</i>
+</p>
+
+ 
