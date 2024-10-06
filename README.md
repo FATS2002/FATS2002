@@ -79,11 +79,11 @@ Here are some ideas to get you started:
 
 | Certifications                                          | Link                                                        |  
 |---------------------------------------------------------|-------------------------------------------------------------|
-|RHCE Red Hat Certified Engineer                          | ![RHCE Badge](https://img.shields.io/badge/RHCE-Certified-red?style=for-the-badge)|                  
-|RHCSA Red Hat Certified System Administrator             |![RHCSA Badge](https://img.shields.io/badge/RHCSA-Certified-blue?style=for-the-badge)|
-|RHCA Red Hat Certified Architect                         |![RHCA Badge](https://img.shields.io/badge/RHCA-Certified-green?style=for-the-badge) |           
-|Hacker Rank                                              |                                                                |  
-|SQL Beginner                                             |To be updated                                                 |  
+|RHCE                                                     |                                                             |                  
+|RHCSA                                                    |                                                             |
+|RHCA                                                     |                                                             |           
+|Hacker Rank                                              |                                                             |  
+|SQL Beginner                                             |To be updated                                                |  
 |SQL Intermmediate                                        |To be updated                                                |  
 |SQL Advanced                                             |To be updated                                                |  
 
