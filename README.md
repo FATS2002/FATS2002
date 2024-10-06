@@ -90,7 +90,6 @@ Here are some ideas to get you started:
 
 
 ### Certifications
-
 #### Red Hat Certified Engineer (RHCE)
 ![RHCE Badge](https://img.shields.io/badge/RHCE-Certified-red)
 
