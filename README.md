@@ -91,6 +91,13 @@ SQL Intermmediate
 SQL Advanced 
 Rest API (Intermediate)
 Problem Solving (Basic)
+FrontEnd Masters- Beginner
+               - Professional 
+               - Expert
+               - computer science
+            - fullstack to backend
+            - design to code
+Languages: backend Languages
 
 ```
 
