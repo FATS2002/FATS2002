@@ -89,19 +89,12 @@ Here are some ideas to get you started:
 
 
 ```
-
-### Certifications
+Certifications
 Red Hat Certified Engineer (RHCE) 
 Red Hat Certified System Administrator
 Red Hat Certified Architect (RHCA) 
 
 ```
 
- 
----
-
-<p align="center">
-  <i>Certifications are a testament to my dedication and continuous learning in the field of technology.</i>
-</p>
 
  
