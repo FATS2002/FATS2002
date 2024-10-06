@@ -87,6 +87,8 @@ Hacker Rank
 SQL Beginner
 SQL Intermmediate
 SQL Advanced 
+Rest API (Intermediate)
+Problem Solving (Basic)
 
 ```
 
