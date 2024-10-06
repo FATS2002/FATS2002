@@ -78,8 +78,9 @@ Here are some ideas to get you started:
 
 
 
+##### Certifications 🧾
+
 ```
-Certifications
 - Red Hat Certified Engineer (RHCE) 
 - Red Hat Certified System Administrator
 - Red Hat Certified Architect (RHCA)
