@@ -92,6 +92,7 @@ Here are some ideas to get you started:
 ### Certifications
 
 #### Red Hat Certified Engineer (RHCE)
+
 ![RHCE Badge](https://www.redhat.com/rhtapps/services/assets/images/certified-engineer.png)
 
 #### Red Hat Certified System Administrator (RHCSA)
