@@ -79,11 +79,14 @@ Here are some ideas to get you started:
 
 | Certifications                                          | Link                                                        |  
 |---------------------------------------------------------|-------------------------------------------------------------|
-|1. RHCE Red Hat Certified Engineer                       | ![RHCE Badge](https://img.shields.io/badge/RHCE-Certified-red?style=for-the-badge)|                  
-|2. RHCSA Red Hat Certified System Administrator          |![RHCSA Badge](https://img.shields.io/badge/RHCSA-Certified-blue?style=for-the-badge)|
-|3. RHCA Red Hat Certified Architect                      |![RHCA Badge](https://img.shields.io/badge/RHCA-Certified-green?style=for-the-badge) |           
-|To be updated                                            |To be updated                                                |  
-|To be updated                                            |                                                             |                                                                  
+|RHCE Red Hat Certified Engineer                       | ![RHCE Badge](https://img.shields.io/badge/RHCE-Certified-red?style=for-the-badge)|                  
+|RHCSA Red Hat Certified System Administrator          |![RHCSA Badge](https://img.shields.io/badge/RHCSA-Certified-blue?style=for-the-badge)|
+|RHCA Red Hat Certified Architect                      |![RHCA Badge](https://img.shields.io/badge/RHCA-Certified-green?style=for-the-badge) |           
+|Hacker Rank                                            |To be updated                                                |  
+|SQL Beginner                                             |                                                             |  
+|SQL Intermmediate                                        |                                                             |  
+|SQL Advanced                                             |                                                             |  
+
 
 
 
@@ -94,30 +97,7 @@ Here are some ideas to get you started:
 #### Red Hat Certified Architect (RHCA) ![RHCA Badge](https://img.shields.io/badge/RHCA-Certified-green?style=for-the-badge)
 
 
-
-## Certifications 🏆
-
-<div align="center">
-  <table>
-    <tr>
-      <th>Certification</th>
-      <th>Badge</th>
-    </tr>
-    <tr>
-      <td>Red Hat Certified Engineer (RHCE)</td>
-      <td><img src="https://img.shields.io/badge/RHCE-Certified-red?style=for-the-badge" alt="RHCE Badge"></td>
-    </tr>
-    <tr>
-      <td>Red Hat Certified System Administrator (RHCSA)</td>
-      <td><img src="https://img.shields.io/badge/RHCSA-Certified-blue?style=for-the-badge" alt="RHCSA Badge"></td>
-    </tr>
-    <tr>
-      <td>Red Hat Certified Architect (RHCA)</td>
-      <td><img src="https://img.shields.io/badge/RHCA-Certified-green?style=for-the-badge" alt="RHCA Badge"></td>
-    </tr>
-  </table>
-</div>
-
+ 
 ---
 
 <p align="center">
