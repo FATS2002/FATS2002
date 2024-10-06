@@ -86,7 +86,7 @@ Here are some ideas to get you started:
 |To be updated                                            |                                                             |                                                                  
 
 
-
+```
 
 ### Certifications
 
@@ -99,3 +99,5 @@ Here are some ideas to get you started:
 #### Red Hat Certified Architect (RHCA)
 ![RHCA Badge](https://img.shields.io/badge/RHCA-Certified-green?style=for-the-badge)
 
+
+```
