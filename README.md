@@ -85,10 +85,13 @@ Here are some ideas to get you started:
 - Red Hat Certified Engineer (RHCE) 
 - Red Hat Certified System Administrator
 - Red Hat Certified Architect (RHCA)
-Hacker Rank
+```
+### Hacker Rank
+```
 SQL Beginner
 SQL Intermmediate
 SQL Advanced 
+```
 Rest API (Intermediate)
 Problem Solving (Basic)
 FrontEnd Masters- Beginner
