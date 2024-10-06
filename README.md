@@ -77,6 +77,16 @@ Here are some ideas to get you started:
 
 
 
+| Certifications                                          | Link                                                        |  
+|---------------------------------------------------------|-------------------------------------------------------------|
+|1. RHCE Red Hat Certified Engineer                       | Red hat                                                   |                  
+|2. RHCSA Red Hat Certified System Administrator          |To be updated                                               |
+|To be updated                                            |To be updated                                                |           
+|To be updated                                            |To be updated                                                |  
+|To be updated                                            |                                                             |                                                                  
+
+
+
 
 
 
