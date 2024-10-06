@@ -88,14 +88,14 @@ Here are some ideas to get you started:
 |SQL Advanced                                             |To be updated                                                |  
 
 
-
+```
 
 ### Certifications
-#### Red Hat Certified Engineer (RHCE) 
-![RHCE Badge](https://img.shields.io/badge/RHCE-Certified-red?style=for-the-badge)
-#### Red Hat Certified System Administrator  (RHCSA) ![RHCSA Badge](https://img.shields.io/badge/RHCSA-Certified-blue?style=for-the-badge)
-#### Red Hat Certified Architect (RHCA) ![RHCA Badge](https://img.shields.io/badge/RHCA-Certified-green?style=for-the-badge)
+Red Hat Certified Engineer (RHCE) 
+Red Hat Certified System Administrator
+Red Hat Certified Architect (RHCA) 
 
+```
 
  
 ---
