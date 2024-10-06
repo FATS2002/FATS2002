@@ -78,7 +78,7 @@ Here are some ideas to get you started:
 
 
 
-##### Certifications 🧾
+###  Certifications 🧾
 
 ```
 - Red Hat Certified Engineer (RHCE) 
