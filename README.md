@@ -81,13 +81,24 @@ Here are some ideas to get you started:
 |---------------------------------------------------------|-------------------------------------------------------------|
 |1. RHCE Red Hat Certified Engineer                       | Red hat                                                   |                  
 |2. RHCSA Red Hat Certified System Administrator          |To be updated                                               |
-|To be updated                                            |To be updated                                                |           
+|3. RHCA Red Hat Certified Architect                      |To be updated                                                |           
 |To be updated                                            |To be updated                                                |  
 |To be updated                                            |                                                             |                                                                  
 
 
 
 
+
+### Certifications
+
+#### Red Hat Certified Engineer (RHCE)
+![RHCE Badge](https://www.redhat.com/rhtapps/services/assets/images/certified-engineer.png)
+
+#### Red Hat Certified System Administrator (RHCSA)
+![RHCSA Badge](https://www.redhat.com/rhtapps/services/assets/images/certified-system-administrator.png)
+
+#### Red Hat Certified Architect (RHCA)
+![RHCA Badge](https://www.redhat.com/rhtapps/services/assets/images/certified-architect.png)
 
 
 
