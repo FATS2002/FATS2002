@@ -83,6 +83,11 @@ Here are some ideas to get you started:
 
 ###  Certifications 🧾
 
+### Amazon ⚡
+```
+Amazon - AWS Certified Cloud Practitioner (CLF-C02 ).
+``` 
+
 ### Red Hat Linux ⚡
 ```
 - Red Hat Certified Engineer (RHCE).
