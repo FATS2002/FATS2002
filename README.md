@@ -34,6 +34,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me **subbi.rakshith@zohomail.com**
 - 📄 Know about my experiences [subbi.rakshith@zohomail.com](subbi.rakshith@zohomail.com) 
 - ⚡ Fun fact **I have solid basic fundamentals in programming-Adapatability**
+- I am too active on Teams, Slack, zohomail and outlook⚡.
 
 
 ### Blogs posts
