@@ -37,7 +37,9 @@ Here are some ideas to get you started:
 - 📝 I regularly write articles on [subbi.rakshith@zohomail.com](subbi.rakshith@zohomail.com)
 - 📫 How to reach me **subbi.rakshith@zohomail.com**
 - 📄 Know about my experiences [subbi.rakshith@zohomail.com](subbi.rakshith@zohomail.com) 
-- ⚡ Fun fact **I have solid basic fundamentals in programming-Adapatability. I'm a full stack application developer and AIML Engineer.c# and java are my besties,and working on Linux from my operating system.I automate things**
+- ⚡ Fun fact **I have solid basic fundamentals in programming-Adapatability.Fullstack application developer and AI Engineer.Experienced in c#,java,kotlin,and working on Linux as my operating system.I automate complex tasks for you.**
+- oops- Java,c#
+- scripting - python, perl
 - I am too active on Teams, Slack, zohomail and outlook⚡.
 
 
