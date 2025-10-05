@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 |2. Algorithm analysing                                    |To be updated                                               |
 |3.Security in Social-Media: Awareness of Phishing<br>Attacks Techniques and Countermeasures|To be updated               |
 |4. NLP for Email                                         |To be updated                                                |
-|5. Private Repository                                    | 10no's                                                      |
+|5. Private Repository                                    |To be updated                                                |
 |To be updated                                            |To be updated                                                |           
 |To be updated                                            |To be updated                                                |  
 |To be updated                                            |                                                             |                                                                  
