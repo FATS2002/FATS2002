@@ -50,15 +50,6 @@ Here are some ideas to get you started:
 ![212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a](https://github.com/user-attachments/assets/856a4f3f-b0d4-4436-81bf-edead10ec968)
 
 
-![213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5](https://github.com/user-attachments/assets/ed90a689-2f5b-40c5-adcb-0237bd91675c)
-
-
-
-
-
-![212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a](https://github.com/user-attachments/assets/856a4f3f-b0d4-4436-81bf-edead10ec968)
-
-
 | MyProject stats                                         | Link                                                        |  
 |---------------------------------------------------------|-------------------------------------------------------------|
 |1. Phishing Email detection using NLP                    |       To be updated  💌                                   |                  
@@ -82,7 +73,6 @@ Here are some ideas to get you started:
 
 
 ![](https://github-readme-stats.vercel.app/api?username=fats2002&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)<br/>
-
 ![](https://github-readme-streak-stats.herokuapp.com/?user=fats2002&theme=highcontrast&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=fats2002&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
