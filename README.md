@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact **I have solid basic fundamentals in programming-Adapatability.Fullstack application developer and AI Engineer.Experienced in c#,java,kotlin,and working on Linux as my operating system.I automate complex tasks for you.**
 - oops- Java,c#
 - scripting - python, perl
-- I am too active on Teams, Slack, zohomail and outlook⚡.
+- I am very active on Teams, Slack, zohomail and outlook⚡.
 
 
 ### Blogs posts
