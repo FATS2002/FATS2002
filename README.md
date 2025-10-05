@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 - oops- Java,c#
 - scripting - python, perl
 - I am very active on Teams, Slack, zohomail and outlook⚡.
-- Need my help.Just ping Hi If you really struck.Reach me out.I'm all in when your production environment(site) is down.To bring it live. 
+- Need my help.Just ping Hi If you really struck.Reach me out.I'm all in,when your production environment(site) is down.To bring it live. 
 
 
 ### Blogs posts
