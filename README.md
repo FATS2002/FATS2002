@@ -47,7 +47,6 @@ Here are some ideas to get you started:
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-![212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a](https://github.com/user-attachments/assets/856a4f3f-b0d4-4436-81bf-edead10ec968)
 
 
 | MyProject stats                                         | Link                                                        |  
